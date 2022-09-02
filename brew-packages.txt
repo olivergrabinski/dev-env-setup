@@ -1,1 +1,1 @@
-git vim jenv scala sbt pyenv
+git vim jenv scala sbt ammonite-repl pyenv
