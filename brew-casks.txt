@@ -1,1 +1,1 @@
-intellij-idea-ce docker firefox zoom iterm2
+pycharm docker docker-desktop firefox zoom iterm2 1password 1password-cli
